@@ -1,0 +1,29 @@
+updated logo:
+murray bridge (simple M logo)
+onkaparinga (wheat field?)
+
+contains name:
+peterborough
+
+bad:
+wudinna
+northern-areas
+naracoorte-lucindale
+mid-murray
+victor-harbor
+
+somewhat low quality:
+wakefield
+murray-bridge
+roxby
+tatiara
+yankalilla
+coorong
+flinders-ranges
+mount-remarkable
+
+needs a background:
+adelaide-hills
+berri-barmera
+tumby-bay
+coorong
